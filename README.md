@@ -27,3 +27,5 @@ KyBot (Kyligence Robot) is an online service for Apache Kylin users to self-serv
 Kyligence Inc.
 
 http://kyligence.io
+
+啊西湖的水我的泪
